@@ -1,0 +1,17 @@
+{
+  "name": "dcomida-backend",
+  "version": "1.0.0",
+  "description": "Backend for DComida service",
+  "main": " app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "cors": "^2.8.4",
+    "body-parser": "^1.18.3"
+  },
+  "author": "D'Comida Team",
+  "license": "ISC"
+}
